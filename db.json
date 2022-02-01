@@ -1,0 +1,39 @@
+{
+  "POST": [
+    {
+      "id": 1,
+      "name": "Arslan",
+      "grade": "A+"
+    },
+    {
+      "id": 2,
+      "name": "MDSRX",
+      "grade": "D"
+    },
+    {
+      "id": 3,
+      "name": "Muneeb",
+      "grade": "C+"
+    },
+    {
+      "id": 4,
+      "name": "Mdsrx",
+      "grade": "F"
+    },
+    {
+      "id": 5,
+      "name": "Sajjad",
+      "grade": "D"
+    },
+    {
+      "id": 6,
+      "name": "Mohib",
+      "grade": "B+"
+    },
+    {
+      "id": 7,
+      "name": "Nasir",
+      "grade": "F"
+    }
+  ]
+}
